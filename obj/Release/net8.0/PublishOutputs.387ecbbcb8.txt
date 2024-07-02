@@ -1,0 +1,13 @@
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\HelloWorldApi.exe
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\appsettings.Development.json
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\appsettings.json
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\HelloWorldApi.dll
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\HelloWorldApi.deps.json
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\HelloWorldApi.runtimeconfig.json
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\HelloWorldApi.pdb
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\Microsoft.OpenApi.dll
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\Newtonsoft.Json.dll
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
