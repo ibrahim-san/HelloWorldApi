@@ -33,3 +33,8 @@ C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\obj\Release\net8.0\refint\Hello
 C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\obj\Release\net8.0\HelloWorldApi.pdb
 C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\obj\Release\net8.0\HelloWorldApi.genruntimeconfig.cache
 C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\obj\Release\net8.0\ref\HelloWorldApi.dll
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\bin\Release\net8.0\publish\web.config
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\bin\Release\net8.0\publish\HelloWorldApi.deps.json
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\bin\Release\net8.0\publish\HelloWorldApi.runtimeconfig.json

@@ -1,6 +1,11 @@
 C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\HelloWorldApi.exe
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\publish\web.config
 C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\appsettings.Development.json
 C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\appsettings.json
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\publish\appsettings.Development.json
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\publish\appsettings.json
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\publish\HelloWorldApi.deps.json
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\publish\HelloWorldApi.runtimeconfig.json
 C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\HelloWorldApi.dll
 C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\HelloWorldApi.deps.json
 C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\publish\HelloWorldApi.runtimeconfig.json

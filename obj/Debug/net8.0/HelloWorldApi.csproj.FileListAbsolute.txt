@@ -33,3 +33,8 @@ C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\obj\Debug\net8.0\HelloWorldApi.
 C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\obj\Debug\net8.0\ref\HelloWorldApi.dll
 C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\obj\Debug\net8.0\HelloWorldApi.sourcelink.json
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\bin\Debug\net8.0\publish\web.config
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\bin\Debug\net8.0\publish\HelloWorldApi.deps.json
+C:\Users\Nasir Ibrahim\Desktop\HNG\HelloWorldApi\bin\Debug\net8.0\publish\HelloWorldApi.runtimeconfig.json
